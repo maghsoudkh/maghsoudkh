@@ -13,7 +13,7 @@ I am now modelling an InGaN/GaN LED with three quantum wells in Sentaurus, and m
 #### Education
 
 - M.Sc. in Electronic Engineering, University of Padova, 2025 to present
-- B.Sc. in Information Engineering, University of Padova, 2025
+- B.Sc. in Information Engineering, University of Padova, 2025. Thesis: [a comparative study of GPUs, TPUs, FPGAs and ASICs for deep learning](https://github.com/maghsoudkh/bsc-thesis-deep-learning-accelerators)
 
 #### Tools
 
